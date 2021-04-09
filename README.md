@@ -4,6 +4,8 @@
 
 # Arch Linux minimal wallpapers
 
+#### Check out the wallpapers [here](other/wallpapers.md)
+
 This repsitory contains a **collection of minimal Arch wallpapers**, all the themes are made by two colors and look like the above template.
 
 The themes have been created following the pallete of some famous color schemes, they have been created using two colors:
