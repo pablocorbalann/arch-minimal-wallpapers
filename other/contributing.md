@@ -24,3 +24,8 @@ modify the file `other/wallpapers.md`, and **in alphabetical order**, add the na
 ### name-of-the-wallpaper
 ![Name of the wallpaper](../wallpapers/name-of-the-wallpaper.png)
 ```
+
+Remember to add your wallpaper to the `.zip` file. You can use a GUI tool, or you can run:
+```bash
+$ zip -r wallpapers.zip wallpapers/
+```
