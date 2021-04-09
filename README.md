@@ -8,6 +8,8 @@
 
 This repsitory contains a **collection of minimal Arch wallpapers**, all the themes are made by two colors and look like the above template.
 
+#### If you want to contribute to the repository, check [this file](other/contributing.md)
+
 The themes have been created following the pallete of some famous color schemes, they have been created using two colors:
 
 - The most important color: for the background of the wallpaper.
