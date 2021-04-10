@@ -18,6 +18,7 @@ The themes have been created following the pallete of some famous color schemes,
 ### Index:
 - [hd (1080x720)](wallpapers/hd/)
 - [full hd (1920x1080)](wallpapers/full-hd)
+- [2k (2048xundefined)](wallpapers/2k)
 
 --- 
 This repository was originally created to implement a small script I programmed for changing the theme of the my terminal, my window manager ([qtile](https://qtile.org)) and my wallpaper. You can check my dotfiles [here](https://github.com/pablocorbalann/dotfiles)
